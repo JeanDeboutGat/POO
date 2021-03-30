@@ -1,2 +1,2 @@
 # POO
-Les travaux pratiques sur mla Programmation Orientée Objet  (Java)
+Les travaux pratiques sur la Programmation Orientée Objet  (Java)
